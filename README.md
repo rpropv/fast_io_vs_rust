@@ -1,3 +1,5 @@
+**NOTE: archived.** I didn't test equivalent things. See [issue 1](https://github.com/rpropv/fast_io_vs_rust/issues/1). Kudos!
+
 # fast_io_vs_rust
 
 **NOTE:** This is just a fun little benchmark to poke fun at [/u/bisixyf](https://old.reddit.com/user/bisixyf) (the author of the C++ [fast_io](https://github.com/tearosccebe/fast_io) library) because I know how much they hate Rust. :)
